@@ -56,4 +56,4 @@ jupyter lab build
 
 ## Authors
 
-This extension was developed at the Rensselaer Polytechnic Institute [Data Science Research Center](www.dsrc.rpi.edu) by [Haidar Khan Ph.D](https://haidark.github.io) and [Sadia Khan](). 
+This extension was developed at the Rensselaer Polytechnic Institute [Data Science Research Center](www.dsrc.rpi.edu) in collaboration with [KhanTeT](shttp://khantet.com/) by [Haidar Khan Ph.D](https://haidark.github.io) and [Sadia Khan](). 
