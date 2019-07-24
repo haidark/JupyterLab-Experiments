@@ -1,0 +1,19 @@
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f6f6f6;
+    min-width: 230px;
+    overflow: auto;
+    border: 1px solid #ddd;
+    z-index: 2;
+    top: 29px;
+    left: 331px;
+}
+
+.show {
+    display: block;
+}
+
+.jp-label-buttons {
+    width: 100%;
+}
